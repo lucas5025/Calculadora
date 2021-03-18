@@ -12,11 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-<<<<<<< HEAD
-    background: #010041;
-=======
-    background: #41002d;
->>>>>>> 5a6269fd821d12ff02ed6352b6b295c2b813f117
+    background: #0a0041;
 }
 input {
     margin: 2px;
